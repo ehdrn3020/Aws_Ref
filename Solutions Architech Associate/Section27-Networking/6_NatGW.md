@@ -8,5 +8,5 @@
 ### 기본설정
 IGW와 함께 사용시 private subnet -> NatGW -> IGW 로 구성
 
-<img width="500" src="./img/img_6.png">
+<img width="600" src="./img/img_6.png">
 
