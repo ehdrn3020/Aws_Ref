@@ -9,7 +9,7 @@
 
 ### CIDR Notation
 ```commandline
-- CIDR Notation는 IP 주소의 집한
+- CIDR Notation는 IP 주소의 집합
 192.168.2.0/24 일 때
 
 32bit = 24bit 네트워크 주소 ( 고정 값 )
